@@ -1,2 +1,17 @@
-# femboybot
-Femboy Bot Domain
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Bot Terms of Service</title>
+</head>
+<body>
+    <h1>Bot Terms of Service</h1>
+    <p>
+        This bot is for private use only in the Discord server: The Peoples Republic of Cork
+        It does not collect any personal data.  
+        By using this bot, you agree not to attempt to copy, modify, redistribute, or use it outside of the designated server.  
+    </p>
+    <p>
+        The bot’s author [Kvaoo] retains all rights to the software.  
+    </p>
+</body>
+</html>
